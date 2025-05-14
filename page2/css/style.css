@@ -1,0 +1,9 @@
+.wow_wr{
+	margin: 100px 0;
+	overflow: hidden;
+}
+.wow_img, .aos_img {
+	margin: 0 0 0 50px;
+    float: left;
+    width: 300px;
+}

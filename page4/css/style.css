@@ -1,0 +1,16 @@
+.counter{
+	margin: 100px 0;
+}
+.count{
+	text-align: center;
+}
+.col-lg-4{
+	border-right: 1px solid black;
+}
+.col-lg-4:last-child{
+	border-right: none;
+}
+.lightbox_img{
+	padding: 20px 25px;
+	width: 385px !important;
+}

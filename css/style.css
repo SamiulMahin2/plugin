@@ -1,0 +1,22 @@
+header{
+	padding: 20px 0;
+	background-color: teal;
+}
+.logo{
+	font-size: 30px;
+}
+.custom_nav{}
+.custom_nav_item{
+	margin: 0 20px;
+}
+.custom_nav_item a{
+	font-size: 20px;
+}
+.slick{
+	padding: 20px 0;
+	background-color: olivedrab;
+}
+.slick_img, .swiper_img, .owl-img{
+	padding: 20px 25px;
+	width: 385px !important;
+}
